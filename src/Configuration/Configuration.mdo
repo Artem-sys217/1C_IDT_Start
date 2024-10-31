@@ -51,6 +51,7 @@
   <catalogs>Catalog.Сотрудники</catalogs>
   <documents>Document.ОказаниеУслуги</documents>
   <documents>Document.ПриходныеНакладные</documents>
+  <enums>Enum.ВидыНоменклатуры</enums>
   <reports>Report.Материалы</reports>
   <informationRegisters>InformationRegister.Цены</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ОстаткиМатериалов</accumulationRegisters>
