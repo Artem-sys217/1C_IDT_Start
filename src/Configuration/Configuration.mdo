@@ -53,6 +53,7 @@
   <documents>Document.ПриходныеНакладные</documents>
   <enums>Enum.ВидыНоменклатуры</enums>
   <reports>Report.Материалы</reports>
+  <dataProcessors>DataProcessor.РаботаСЗапросами</dataProcessors>
   <informationRegisters>InformationRegister.Цены</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ОстаткиМатериалов</accumulationRegisters>
 </mdclass:Configuration>
