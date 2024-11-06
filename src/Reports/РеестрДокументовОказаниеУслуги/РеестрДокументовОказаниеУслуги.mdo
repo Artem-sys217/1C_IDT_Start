@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="717158a6-abf0-400d-b802-8f5839684b9b">
+  <producedTypes>
+    <objectType typeId="8a36ba1d-6e0d-4de2-82a4-22249a004c56" valueTypeId="59458d3f-e2be-476c-895a-917a4f9aaf40"/>
+    <managerType typeId="4179f1ae-18fa-4a13-ac2f-5fd9a2a669d3" valueTypeId="d785d5d6-9ed2-4dd6-9127-93cde9dfe253"/>
+  </producedTypes>
+  <name>РеестрДокументовОказаниеУслуги</name>
+  <synonym>
+    <key>ru</key>
+    <value>Реестр документов оказание услуги</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.РеестрДокументовОказаниеУслуги.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <extendedPresentation>
+    <key>ru</key>
+    <value>Список оказанных услуг</value>
+  </extendedPresentation>
+  <templates uuid="7998b81f-7497-45b4-9a1d-2b8f098c09ca">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>
