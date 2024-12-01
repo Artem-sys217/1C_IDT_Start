@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4e59a1c5-a605-4b0a-ba4a-2248432955c7">
+  <producedTypes>
+    <selectionType typeId="91dad27d-6d67-4755-a881-34e765feec22" valueTypeId="3aaee585-fbdb-477d-a9b7-50c2c968b04c"/>
+    <listType typeId="aae8d751-f123-4bdc-81b1-0ac98e8f8d95" valueTypeId="3c80f1ec-8eda-41d2-a191-64844265c714"/>
+    <managerType typeId="87241918-27ac-45d8-889f-2d101bd8f379" valueTypeId="a9c438b2-eba0-4651-bebc-47348ba17de2"/>
+    <recordSetType typeId="3e6902ab-01cd-409b-8e4e-728baf6682fa" valueTypeId="731e943a-28c6-4ddb-a8ee-06031ea2d1df"/>
+    <recordKeyType typeId="d4802c13-2400-4b91-b403-0762a511e71f" valueTypeId="4228d2e5-c52e-48ad-99a5-f048d1741653"/>
+    <recordType typeId="f232f5ad-faa0-4a8e-8c29-3fa863c6e78b" valueTypeId="dec0d7e6-1e02-44eb-966d-1d5f69643ed4"/>
+    <recordManagerType typeId="570851b9-d5d9-41c7-adde-357e03ff10ab" valueTypeId="55bc2d36-4608-4019-a342-676b8dd14afc"/>
+  </producedTypes>
+  <name>ЗначенияСвойствНоменклатуры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Свойство и значение</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <defaultRecordForm>InformationRegister.ЗначенияСвойствНоменклатуры.Form.ФормаЗаписи</defaultRecordForm>
+  <defaultListForm>InformationRegister.ЗначенияСвойствНоменклатуры.Form.ФормаСписка</defaultListForm>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="c7e9e33b-81c3-4732-9602-ab50dd9c6a79">
+    <name>Значение</name>
+    <synonym>
+      <key>ru</key>
+      <value>Значение</value>
+    </synonym>
+    <type>
+      <types>ChartOfCharacteristicTypesRef.СвойстваНоменклатуры</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <linkByType>
+      <field>InformationRegister.ЗначенияСвойствНоменклатуры.Dimension.ВидСвойства</field>
+    </linkByType>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <dimensions uuid="d86ad79b-1055-4c85-b182-1d9718b3c13a">
+    <name>НаборСвойств</name>
+    <synonym>
+      <key>ru</key>
+      <value>Набор свойств</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ВариантыНоменклатуры</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillFromFillingValue>true</fillFromFillingValue>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <master>true</master>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <dimensions uuid="2f46b040-20be-4dc9-8acf-b0ad6fb78462">
+    <name>ВидСвойства</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ствойство</value>
+    </synonym>
+    <type>
+      <types>ChartOfCharacteristicTypesRef.СвойстваНоменклатуры</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <forms uuid="e6643d17-e519-478a-89b6-d6502f7d8c04">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="f095dffe-4e77-4ba5-a177-1e60df7dcf3a">
+    <name>ФормаЗаписи</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма записи</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:InformationRegister>
