@@ -50,6 +50,10 @@
 			<dataPath>КоличествоРасход</dataPath>
 			<field>КоличествоРасход</field>
 		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>НаборСвойств</dataPath>
+			<field>НаборСвойств</field>
+		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
 	ОстаткиМатериаловОстаткиИОбороты.Материал,

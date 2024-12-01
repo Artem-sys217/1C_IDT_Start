@@ -30,6 +30,7 @@
   <defaultObjectForm>Document.ПриходныеНакладные.Form.ФормаДокумента</defaultObjectForm>
   <registerRecords>AccumulationRegister.СтоимостьМатериалов</registerRecords>
   <registerRecords>AccumulationRegister.ОстаткиМатериалов</registerRecords>
+  <registerRecords>AccountingRegister.Управленческий</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <attributes uuid="ac5d1ad2-48d0-4d9a-a931-240396e86f74">

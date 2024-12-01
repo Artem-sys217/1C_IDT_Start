@@ -20,4 +20,8 @@
   <content>AccumulationRegister.Продажи</content>
   <content>Report.РейтингКлиентов</content>
   <content>Report.ОстаткиМатериаловПоСвойствам</content>
+  <content>ChartOfCharacteristicTypes.ВидыСубконто</content>
+  <content>ChartOfAccounts.Основной</content>
+  <content>AccountingRegister.Управленческий</content>
+  <content>Report.ОборотноСальдоваяВедомость</content>
 </mdclass:Subsystem>

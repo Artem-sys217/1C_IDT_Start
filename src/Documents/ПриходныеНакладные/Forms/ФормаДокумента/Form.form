@@ -692,6 +692,12 @@
           <common>true</common>
         </userVisible>
       </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>AccountingRegister.Управленческий.StandardCommand.OpenByRecorder</command>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
     </navigationPanel>
     <commandBar/>
   </commandInterface>
