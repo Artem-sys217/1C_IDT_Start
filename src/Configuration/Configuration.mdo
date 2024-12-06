@@ -46,6 +46,7 @@
   <commonModules>CommonModule.РаботаСДокументами</commonModules>
   <commonModules>CommonModule.РаботаСоСправочниками</commonModules>
   <catalogs>Catalog.ВариантыНоменклатуры</catalogs>
+  <catalogs>Catalog.ВидыГрафиковРаботы</catalogs>
   <catalogs>Catalog.ДополнительныеСвойстваНоменклатуры</catalogs>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
@@ -65,6 +66,7 @@
   <reports>Report.РейтингУслуг</reports>
   <reports>Report.Универсальный</reports>
   <dataProcessors>DataProcessor.РаботаСЗапросами</dataProcessors>
+  <informationRegisters>InformationRegister.ГрафикиРаботы</informationRegisters>
   <informationRegisters>InformationRegister.ЗначенияСвойствНоменклатуры</informationRegisters>
   <informationRegisters>InformationRegister.Цены</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ОстаткиМатериалов</accumulationRegisters>
@@ -74,4 +76,6 @@
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.СвойстваНоменклатуры</chartsOfCharacteristicTypes>
   <chartsOfAccounts>ChartOfAccounts.Основной</chartsOfAccounts>
   <accountingRegisters>AccountingRegister.Управленческий</accountingRegisters>
+  <chartsOfCalculationTypes>ChartOfCalculationTypes.ОсновныеНачисления</chartsOfCalculationTypes>
+  <calculationRegisters>CalculationRegister.Начисления</calculationRegisters>
 </mdclass:Configuration>

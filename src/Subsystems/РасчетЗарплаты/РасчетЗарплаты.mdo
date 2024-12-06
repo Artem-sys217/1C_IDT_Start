@@ -11,4 +11,8 @@
     <picture>StdPicture.Task</picture>
   </picture>
   <content>Catalog.Сотрудники</content>
+  <content>ChartOfCalculationTypes.ОсновныеНачисления</content>
+  <content>Catalog.ВидыГрафиковРаботы</content>
+  <content>InformationRegister.ГрафикиРаботы</content>
+  <content>CalculationRegister.Начисления</content>
 </mdclass:Subsystem>
