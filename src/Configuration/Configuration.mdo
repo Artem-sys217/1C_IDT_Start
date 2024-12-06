@@ -43,6 +43,7 @@
   <subsystems>Subsystem.Предприятие</subsystems>
   <subsystems>Subsystem.РасчетЗарплаты</subsystems>
   <subsystems>Subsystem.УчетМатериалов</subsystems>
+  <commonModules>CommonModule.ГлобальныйПоискВДанных</commonModules>
   <commonModules>CommonModule.ПроведениеРасчетов</commonModules>
   <commonModules>CommonModule.РаботаСДокументами</commonModules>
   <commonModules>CommonModule.РаботаСоСправочниками</commonModules>
