@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2c31211f-d775-4bb8-90ba-cf0400b9cbcd">
+  <producedTypes>
+    <objectType typeId="1beb3c81-80f9-43d0-9ce7-f3d683ac1432" valueTypeId="6ab86dab-57d1-445c-9466-9ecf7dff58ff"/>
+    <managerType typeId="add3a36b-cf37-4df2-b4e9-b412544cbc77" valueTypeId="4d70a7fa-e561-4b7a-86dc-bdaa9f4aaaf6"/>
+  </producedTypes>
+  <name>ДиаграммаНачислений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Диаграмма начислений</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>Report.ДиаграммаНачислений.Form.ФормаОтчета</defaultForm>
+  <forms uuid="d95af31b-83fe-4cc3-b10e-e2fc207ba793">
+    <name>ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Report>

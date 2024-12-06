@@ -13,5 +13,11 @@
         <common>true</common>
       </visible>
     </visibilityFragments>
+    <visibilityFragments>
+      <command>ChartOfCalculationTypes.ОсновныеНачисления.StandardCommand.Create</command>
+      <visible>
+        <common>true</common>
+      </visible>
+    </visibilityFragments>
   </commandsVisibility>
 </cmi:CommandInterface>

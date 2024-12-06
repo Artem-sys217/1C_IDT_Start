@@ -43,6 +43,7 @@
   <subsystems>Subsystem.Предприятие</subsystems>
   <subsystems>Subsystem.РасчетЗарплаты</subsystems>
   <subsystems>Subsystem.УчетМатериалов</subsystems>
+  <commonModules>CommonModule.ПроведениеРасчетов</commonModules>
   <commonModules>CommonModule.РаботаСДокументами</commonModules>
   <commonModules>CommonModule.РаботаСоСправочниками</commonModules>
   <catalogs>Catalog.ВариантыНоменклатуры</catalogs>
@@ -53,13 +54,17 @@
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <catalogs>Catalog.Субконто</catalogs>
+  <documents>Document.НачисленияСотрудникам</documents>
   <documents>Document.ОказаниеУслуги</documents>
   <documents>Document.ПриходныеНакладные</documents>
   <enums>Enum.ВидыНоменклатуры</enums>
   <reports>Report.ВыручкаМастеров</reports>
+  <reports>Report.ДиаграммаНачислений</reports>
   <reports>Report.Материалы</reports>
+  <reports>Report.НачисленияСотрудникам</reports>
   <reports>Report.ОборотноСальдоваяВедомость</reports>
   <reports>Report.ОстаткиМатериаловПоСвойствам</reports>
+  <reports>Report.Перерасчет</reports>
   <reports>Report.ПереченьУслуг</reports>
   <reports>Report.РеестрДокументовОказаниеУслуги</reports>
   <reports>Report.РейтингКлиентов</reports>
