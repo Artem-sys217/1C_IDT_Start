@@ -47,6 +47,9 @@
   <commonModules>CommonModule.ПроведениеРасчетов</commonModules>
   <commonModules>CommonModule.РаботаСДокументами</commonModules>
   <commonModules>CommonModule.РаботаСоСправочниками</commonModules>
+  <commonModules>CommonModule.РегламентныеПроцедуры</commonModules>
+  <scheduledJobs>ScheduledJob.ОбновлениеИндекса</scheduledJobs>
+  <scheduledJobs>ScheduledJob.СлияниеИндексов</scheduledJobs>
   <catalogs>Catalog.ВариантыНоменклатуры</catalogs>
   <catalogs>Catalog.ВидыГрафиковРаботы</catalogs>
   <catalogs>Catalog.ДополнительныеСвойстваНоменклатуры</catalogs>
