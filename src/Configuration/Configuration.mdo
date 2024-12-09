@@ -58,6 +58,7 @@
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <catalogs>Catalog.Субконто</catalogs>
+  <documents>Document.ВводНачальныхОстатковНоменклатуры</documents>
   <documents>Document.НачисленияСотрудникам</documents>
   <documents>Document.ОказаниеУслуги</documents>
   <documents>Document.ПриходныеНакладные</documents>
