@@ -24,4 +24,5 @@
   <content>Report.ПереченьУслуг</content>
   <content>Report.РейтингКлиентов</content>
   <content>Report.Универсальный</content>
+  <content>Document.НачисленияСотрудникам</content>
 </mdclass:Subsystem>

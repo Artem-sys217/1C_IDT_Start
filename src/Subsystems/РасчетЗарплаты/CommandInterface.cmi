@@ -2,12 +2,6 @@
 <cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi">
   <commandsVisibility>
     <visibilityFragments>
-      <command>Catalog.Сотрудники.StandardCommand.Create</command>
-      <visible>
-        <common>true</common>
-      </visible>
-    </visibilityFragments>
-    <visibilityFragments>
       <command>CalculationRegister.Начисления.StandardCommand.OpenList</command>
       <visible>
         <common>true</common>

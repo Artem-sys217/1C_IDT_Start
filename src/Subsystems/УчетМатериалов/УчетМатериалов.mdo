@@ -19,4 +19,5 @@
   <content>AccumulationRegister.СтоимостьМатериалов</content>
   <content>AccumulationRegister.Продажи</content>
   <content>Report.ОстаткиМатериаловПоСвойствам</content>
+  <content>Catalog.Сотрудники</content>
 </mdclass:Subsystem>

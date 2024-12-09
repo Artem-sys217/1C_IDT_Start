@@ -43,6 +43,11 @@
   <subsystems>Subsystem.Предприятие</subsystems>
   <subsystems>Subsystem.РасчетЗарплаты</subsystems>
   <subsystems>Subsystem.УчетМатериалов</subsystems>
+  <roles>Role.Администратор</roles>
+  <roles>Role.Бухгалтер</roles>
+  <roles>Role.Директор</roles>
+  <roles>Role.Мастер</roles>
+  <roles>Role.Расчетчик</roles>
   <commonModules>CommonModule.ГлобальныйПоискВДанных</commonModules>
   <commonModules>CommonModule.ПроведениеРасчетов</commonModules>
   <commonModules>CommonModule.РаботаСДокументами</commonModules>
